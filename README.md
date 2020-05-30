@@ -12,5 +12,5 @@ Now
 3.  pip install pillow
 4.  pip install matplotlib
 
-Run the ocr.ipynb in jupyter to detect and extract the table data
-and for only table data detection you can run table.py using opencv
+- Run the ocr.ipynb in jupyter to detect and extract the table data
+- for only table data detection you can run data_extraction_using_opencv.ipynb using opencv
