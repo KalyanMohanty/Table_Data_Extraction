@@ -1,7 +1,9 @@
 # Table_Data_Extraction
 
-# Step 1: Install tesseract ocr in windows 
-# Step 2: set environment 
+# Step 1: 
+- Install tesseract ocr in windows 
+# Step 2: 
+- set environment 
 - search 'Edit the system environment variables'>Environment Variables...> under system variable click on path and click on edit > add new> and paste the path
 - path can be found out at c:\programfiles\tesseract ocr.
  
